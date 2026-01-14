@@ -1278,6 +1278,7 @@ opacity: 0.5;
     .value__list {
         max-width: 20rem;
         flex-direction: column;
+        margin: 0 auto;
     }
     .plans {
         flex-direction: column;
